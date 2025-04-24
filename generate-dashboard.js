@@ -1,4 +1,3 @@
-// generate-dashboard.js
 import { readdirSync, existsSync, writeFileSync } from "fs";
 import { join } from "path";
 
