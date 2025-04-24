@@ -108,4 +108,4 @@ Tu obtiens un tableau de bord dynamique, que tu peux mettre à jour à chaque aj
 
 ## 🪝 Étape suivante : automatiser avec un Git hook
 
-Pour se faciliter encore plus les choses, tu peux maintenant ajouter un hook Git `pre-commit` pour exécuter ce script automatiquement avant chaque commit → [Voir Étape 3](DOC_HOOK_PRE_COMMIT.md)
+Pour se faciliter encore plus les choses, tu peux maintenant ajouter un hook Git `pre-commit` pour exécuter ce script automatiquement avant chaque commit → [Voir Étape 3](ETAPE_3_HOOK_PRECOMMIT.md)
